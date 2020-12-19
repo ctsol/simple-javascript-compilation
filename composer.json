@@ -1,6 +1,6 @@
 {
-    "name": "kyranrana/simple-javascript-compilation",
-    "description": "Compiles JavaScript code through a series of actions.",
+    "name": "mediashare/simple-javascript-compilation",
+    "description": "[UnArchived] Compiles JavaScript code through a series of actions.",
     "type": "library",
     "license": "MIT",
     "version": "0.3.1",
