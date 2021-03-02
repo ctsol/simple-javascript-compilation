@@ -1,13 +1,13 @@
 {
-    "name": "mediashare/simple-javascript-compilation",
+    "name": "YiMSIT54/simple-javascript-compilation",
     "description": "[UnArchived] Compiles JavaScript code through a series of actions.",
     "type": "library",
     "license": "MIT",
     "version": "0.3.1",
     "authors": [
         {
-            "name": "Kyran Rana",
-            "email": "kyranportfolio@gmail.com"
+            "name": "Wattanachai Waknang",
+            "email": "wattanachai.dev@gmail.com"
         }
     ],
     "require": {
